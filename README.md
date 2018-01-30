@@ -19,4 +19,4 @@ $ jupyter notebook Iris.ipynb
 ```
 
 ## View Static Version
-To view a static version of this notebook, click [here]('./Iris.ipynb').
+To view a static version of this notebook, click [here](Iris.ipynb).
